@@ -1,5 +1,5 @@
 # Cayenne PCF8574 Plugin
-A plugin allowing the [Cayenne Pi Agent](https://github.com/myDevicesIoT/Cayenne-Agent) to to read data from and write data to a PCF8574 device and display it in the [Cayenne Dashboard](https://cayenne.mydevices.com).
+A plugin allowing the [Cayenne Pi Agent](https://github.com/myDevicesIoT/Cayenne-Agent) to to read data from and write data to a PCF8574/PCF8574A device and display it in the [Cayenne Dashboard](https://cayenne.mydevices.com).
 
 ## Requirements
 ### Hardware
