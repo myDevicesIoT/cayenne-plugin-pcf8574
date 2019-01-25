@@ -21,7 +21,7 @@ A plugin allowing the [Cayenne Pi Agent](https://github.com/myDevicesIoT/Cayenne
 
 ### 2. Modifying the plugin
 
-   Specify the device you are using by setting the `class` value under the `PCF8574` section in the `cayenne-pcf8574.plugin` file.
+   Specify the device you are using by setting the `class` value under the `PCF8574` section in the `cayenne_pcf8574.plugin` file.
    By default this is set to `PCF8574` but it can also be set `PCF8574A`.
 
    By default the plugin alternates between input and output channels. To specify different functions for specific channels you

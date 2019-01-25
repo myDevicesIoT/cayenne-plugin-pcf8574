@@ -1,6 +1,6 @@
 [PCF8574]
 enabled=true
-module=cayenne-pcf8574
+module=cayenne_pcf8574
 class=PCF8574
 read=digitalRead
 write=digitalWrite
@@ -9,9 +9,9 @@ set_function=setFunctionString
 [PCF8574_CH0]
 enabled=true
 channel=0
-module=cayenne-pcf8574
+module=cayenne_pcf8574
 class=DigitalInput
-init_args={"plugin_id":"cayenne-pcf8574:PCF8574"}
+init_args={"plugin_id":"cayenne_pcf8574:PCF8574"}
 read=read
 read_args={"channel":$channel}
 write=write
